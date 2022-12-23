@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vismayaajikumar
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in Artificial Intelligence and Data Analysis.
 - 🌱 I’m currently pursuing BTech in CSE.
 - 💞️ I’m looking to collaborate on Artificial Intelligence.
 - 📫 How to reach me: vismaya.aji.75@gmail.com
